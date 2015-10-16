@@ -1,6 +1,6 @@
 .verde{
 	height: 100px;
-	background-color: green;
+	background-color: blue;
 	margin: 0px 400px 0px 100px;
 	padding: 10px;
 	font-size: 20px;
@@ -16,7 +16,7 @@
 }
 .rojo{
 	height: 100px;
-	background-color: red;
+	background-color: purple;
 	font-color: white;
 	margin:  0px 400px 0px 100px;
 	padding: 10px;
